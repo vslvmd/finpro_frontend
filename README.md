@@ -1,1 +1,4 @@
-# photo_sharing_site
+# Final Project - Photo Sharing (Frontend)
+
+- Vasa (Leader)
+- Burhan Aditya
